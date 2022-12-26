@@ -9,6 +9,7 @@ I am a 14yo developer from Czechia.
 ## Languages
 - HTML/CSS 🖥
 - JavaScript 🗿
+- JSX ⚛️
 - Czech 🇨🇿
 - Python 🐍
 - Markdown ⬇️
