@@ -1,15 +1,7 @@
-# Tom-on
-## Who Am I?
-I am a selftought developer from Czechia.\
-I enjoy low-level code, math and memes.
+Tom-on
+======
+A self tought developer from Czechia.
 
-## [My Website](https://tomon.web.app)
+[My Website](https://tomon.web.app)
 
-## Languages
-- JavaScript and Typescript 🗿
-- C ⚙️
-- Czech 🇨🇿
-- C# (With Unity) 👾
-- Assembly 💾
-- English 🇺🇸
-- Neon 💡
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-on64&layout=compact)
